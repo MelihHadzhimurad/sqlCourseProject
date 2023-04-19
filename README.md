@@ -1,4 +1,3 @@
 # sqlCourseProject
 
-Technical University of Sofia
-Databases course
+Technical University of Sofia - Databases course
